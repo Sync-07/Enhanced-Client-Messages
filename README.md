@@ -5,7 +5,7 @@ This is a cool include that you need to enhance the experience of your players!
 ## Installation
 
 Installation on a linux software:
-```pawn
+```
 sampctl package install Sync-07/Enhanced-Client-Message
 ```
 
