@@ -2,6 +2,20 @@
 
 This is a cool include that you need to enhance the experience of your players!
 
+## Installation
+
+Installation on a linux software:
+```
+sampctl package install Sync-07/Enhanced-Client-Message
+```
+
+and the inclusion of the script:
+```
+#include <ECM>
+```
+
+## Information
+
 Function: `SendEnhancedClientMessage(playerid, caption, string);`
 
 Arguments explanation:
