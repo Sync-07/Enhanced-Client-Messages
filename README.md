@@ -6,7 +6,7 @@ This is a cool include that you need to enhance the experience of your players!
 
 Installation on a linux software:
 ```
-sampctl package install Sync-07/Enhanced-Client-Message
+sampctl package install Sync-07/Enhanced-Client-Messages
 ```
 
 and the inclusion of the script:
