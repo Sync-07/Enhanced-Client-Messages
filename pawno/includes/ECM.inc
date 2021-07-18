@@ -1,3 +1,5 @@
+// Created by Sync07
+
 #include <YSI\y_hooks>
 
 static TextShown[MAX_PLAYERS];
