@@ -19,4 +19,7 @@ public OnPlayerConnect(playerid)
 }
 ```
 
-NOTE: This is the first repository I made so please don't bash me if I did something wrong. :>
+NOTES:
+- Use a maximum of 15 characters when captioning an enhanced client message, or it will be disorted. (And the result will annoy you.)
+- The main string doesn't require character count, but make sure to not put a long continous word like "supercalifragilisticexpialidocious" because the result will also annoy you.
+- This is the first repository I made so please don't bash me if I did something wrong. :>
