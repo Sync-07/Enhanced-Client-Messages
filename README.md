@@ -16,7 +16,10 @@ and the inclusion of the script:
 
 ## Information
 
-Function: `SendEnhancedClientMessage(playerid, caption, string);`
+Function: 
+```pawn
+SendEnhancedClientMessage(playerid, caption, string);
+```
 
 Arguments explanation:
 - playerid - The ID of the player to display the message to.
@@ -25,7 +28,7 @@ Arguments explanation:
 
 Example:
 
-```
+```pawn
 public OnPlayerConnect(playerid)
 {
     SendEnhancedClientMessage(playerid, "Notification", "Hello world.");
